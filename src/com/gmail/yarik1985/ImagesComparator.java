@@ -1,4 +1,4 @@
-package ua.kiev.yarik;
+package com.gmail.yarik1985;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
